@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am [Hussein Okasha](https://www.linkedin.com/in/hussein-okasha-857888180/), I am a problem solver who has passion to learn. 
 
-- :snowflake: You can find my resume [here](https://drive.google.com/drive/folders/1XCSYLUokII4mNwLOQep3M67uSL1R-IOI?usp=sharing).
+- :snowflake: You can find my resume [here](https://docs.google.com/document/d/1u-sNZE8xzmls_fhiKiPgcAx9hUMzTLaPnKcKAMo8BLA/edit?usp=sharing).
 - :snowflake: [Codeforces Account](https://codeforces.com/profile/husseinokasha13)
 - :snowflake: [LeetCode Account](https://leetcode.com/Hussein_Okasha/)
 
